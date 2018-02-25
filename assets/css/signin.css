@@ -4,6 +4,19 @@ body {
   background-color: #eee;
 }
 
+table, th, td, tr {
+    border: 1px solid black;
+}
+th {
+  background-color: #0de0ff;
+  text-align: center;
+}
+table td{
+   height: 100px;
+}
+table.class_selector tr{
+   height: 100px;
+}
 .form-signin {
   max-width: 330px;
   padding: 15px;

@@ -625,7 +625,8 @@ h3 {
     cursor: pointer;
     float: left;
     margin-top: 5px;
-    margin-bottom: 5px
+    margin-bottom: 5px;
+    background: #5e0500;
 }
 
 @media(max-width:991px) {
@@ -762,7 +763,7 @@ article.hentry .overlay-icon .fa {
     padding: 5px;
     border: 0;
     outline: none;
-    background: #59b210;
+    background: #5e0500;
     color: white
 }
 
@@ -775,7 +776,7 @@ article.hentry .overlay-icon .fa {
 }
 
 .woocommerce-result-count {
-    background: #59b210;
+    background: #5e0500;
     color: white;
     padding: 4px 10px
 }
@@ -1321,7 +1322,9 @@ ul.products div[itemprop="description"] {
 }
 
 .sidebar .widget-title {
-    margin-top: 0
+    margin-top: 0;
+    background: #ffffff;
+    color: #23B574;
 }
 
 .site-footer .widget-title {
@@ -1479,7 +1482,8 @@ select.dropdown_product_cat {
 }
 
 .ncn_support_widget .widget-title {
-    background: #ff0245
+    background: #ffffff !important;
+    color: #23B574 !important;
 }
 
 .ncn_support_widget .widget-title:before {
