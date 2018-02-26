@@ -1325,6 +1325,7 @@ ul.products div[itemprop="description"] {
     margin-top: 0;
     background: #ffffff;
     color: #23B574;
+    font-weight: bold;
 }
 
 .site-footer .widget-title {
