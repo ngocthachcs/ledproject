@@ -1077,7 +1077,7 @@ article.hentry .overlay-icon .fa {
 .woocommerce-message:before,
 .woocommerce-info:before,
 .woocommerce .woocommerce-product-rating .star-rating {
-    color: #59b210
+    color: none !important;
 }
 
 .related-title {
